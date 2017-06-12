@@ -7,6 +7,7 @@ public class sam {
 System.out.println("Practice git");
 	}
 
+	
 }
 
 
