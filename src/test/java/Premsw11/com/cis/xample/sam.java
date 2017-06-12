@@ -6,8 +6,6 @@ public class sam {
 		// TODO Auto-generated method stub
 System.out.println("Practice git");
 	}
-
-	
 }
 
 
